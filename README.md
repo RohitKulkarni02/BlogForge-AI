@@ -58,9 +58,3 @@ pip install boto3 botocore
 - Logs errors encountered during blog generation or S3 upload.
 - Uses retry logic for Bedrock API calls to improve reliability.
 
-## Future Improvements
-- Add better exception handling for network failures.
-- Introduce more customization options for blog length, tone, or style.
-
-## License
-This project is licensed under the MIT License.
